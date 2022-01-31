@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="uk_project_title"><![CDATA[New Project]]></data>
+
+
+
+  <data name="uk_pano678_title"><![CDATA[IMG_7688]]></data>
+  <data name="uk_spotpoint683_tooltip"><![CDATA[коридор]]></data>
+
+
+  <data name="uk_pano51_title"><![CDATA[IMG_7204]]></data>
+  <data name="uk_spotpoint59_tooltip"><![CDATA[коридор]]></data>
+  <data name="uk_spotpoint60_tooltip"><![CDATA[коридор]]></data>
+  <data name="uk_spotpoint111_tooltip"><![CDATA[хол]]></data>
+
+
+  <data name="uk_pano10_title"><![CDATA[IMG_7178]]></data>
+  <data name="uk_spotpoint15_tooltip"><![CDATA[коридор]]></data>
+
+
+  <data name="uk_pano12_title"><![CDATA[IMG_7175]]></data>
+  <data name="uk_spotpoint14_tooltip"><![CDATA[бібліотека]]></data>
+  <data name="uk_spotpoint23_tooltip"><![CDATA[коридор]]></data>
+  <data name="uk_spotpoint27_tooltip"><![CDATA[сходи на 1 поверх]]></data>
+
+
+  <data name="uk_pano20_title"><![CDATA[IMG_7176]]></data>
+  <data name="uk_spotpoint22_tooltip"><![CDATA[коридор]]></data>
+  <data name="uk_spotpoint261_tooltip"><![CDATA[204 кабінет]]></data>
+  <data name="uk_spotpoint270_tooltip"><![CDATA[кабінет інформатики №2]]></data>
+
+
+  <data name="uk_pano24_title"><![CDATA[IMG_7184]]></data>
+  <data name="uk_spotpoint26_tooltip"><![CDATA[коридор]]></data>
+  <data name="uk_spotpoint31_tooltip"><![CDATA[коридор]]></data>
+  <data name="uk_spotpoint35_tooltip"><![CDATA[спуск на 1 поверх]]></data>
+
+
+  <data name="uk_pano28_title"><![CDATA[IMG_7180]]></data>
+  <data name="uk_spotpoint30_tooltip"><![CDATA[сходи на 1 поверх]]></data>
+  <data name="uk_spotpoint251_tooltip"><![CDATA[кабінет інформатики]]></data>
+  <data name="uk_spotpoint255_tooltip"><![CDATA[кабінет математики]]></data>
+  <data name="uk_spotpoint266_tooltip"><![CDATA[205 кабінет]]></data>
+
+
+  <data name="uk_pano32_title"><![CDATA[IMG_7187]]></data>
+  <data name="uk_spotpoint34_tooltip"><![CDATA[2 поверх]]></data>
+  <data name="uk_spotpoint47_tooltip"><![CDATA[спуск на 1 поверх]]></data>
+
+
+  <data name="uk_pano36_title"><![CDATA[IMG_7189]]></data>
+  <data name="uk_spotpoint49_tooltip"><![CDATA[сходи на 2 поверх]]></data>
+
+
+  <data name="uk_pano39_title"><![CDATA[IMG_7197]]></data>
+  <data name="uk_spotpoint46_tooltip"><![CDATA[сходи на 2 поверх]]></data>
+  <data name="uk_spotpoint48_tooltip"><![CDATA[гардеробна]]></data>
+  <data name="uk_spotpoint57_tooltip"><![CDATA[коридор]]></data>
+
+
+  <data name="uk_pano50_title"><![CDATA[IMG_7203]]></data>
+  <data name="uk_spotpoint56_tooltip"><![CDATA[сходи на 2 поверх]]></data>
+  <data name="uk_spotpoint58_tooltip"><![CDATA[хол]]></data>
+
+
+  <data name="uk_pano52_title"><![CDATA[IMG_7206]]></data>
+  <data name="uk_spotpoint61_tooltip"><![CDATA[коридор]]></data>
+  <data name="uk_spotpoint65_tooltip"><![CDATA[їдальня]]></data>
+  <data name="uk_spotpoint71_tooltip"><![CDATA[коридор]]></data>
+  <data name="uk_spotpoint682_tooltip"><![CDATA[кабінет фізики]]></data>
+
+
+  <data name="uk_pano62_title"><![CDATA[IMG_7207]]></data>
+  <data name="uk_spotpoint64_tooltip"><![CDATA[коридор]]></data>
+
+
+  <data name="uk_pano66_title"><![CDATA[IMG_7208]]></data>
+  <data name="uk_spotpoint70_tooltip"><![CDATA[коридор]]></data>
+  <data name="uk_spotpoint75_tooltip"><![CDATA[сходи на 2 поверх]]></data>
+
+
+  <data name="uk_pano67_title"><![CDATA[IMG_7209]]></data>
+  <data name="uk_spotpoint77_tooltip"><![CDATA[сходи на 2 поверх]]></data>
+  <data name="uk_spotpoint668_tooltip"><![CDATA[кабінет математики №2]]></data>
+  <data name="uk_spotpoint672_tooltip"><![CDATA[110 кабінет]]></data>
+  <data name="uk_spotpoint676_tooltip"><![CDATA[кабінет хімії]]></data>
+
+
+  <data name="uk_pano72_title"><![CDATA[IMG_7212]]></data>
+  <data name="uk_spotpoint74_tooltip"><![CDATA[коридор]]></data>
+  <data name="uk_spotpoint76_tooltip"><![CDATA[коридор]]></data>
+  <data name="uk_spotpoint87_tooltip"><![CDATA[сходи на 2 поверх]]></data>
+
+
+  <data name="uk_pano78_title"><![CDATA[IMG_7228]]></data>
+  <data name="uk_spotpoint89_tooltip"><![CDATA[спуск на 1 поверх]]></data>
+  <data name="uk_spotpoint93_tooltip"><![CDATA[коридор]]></data>
+  <data name="uk_spotpoint101_tooltip"><![CDATA[коридор]]></data>
+  <data name="uk_spotpoint645_tooltip"><![CDATA[212 кабінет]]></data>
+
+
+  <data name="uk_pano84_title"><![CDATA[IMG_6965]]></data>
+  <data name="uk_spotpoint86_tooltip"><![CDATA[1 поверх]]></data>
+  <data name="uk_spotpoint88_tooltip"><![CDATA[2 поверх]]></data>
+
+
+  <data name="uk_pano98_title"><![CDATA[IMG_6963]]></data>
+  <data name="uk_spotpoint100_tooltip"><![CDATA[сходи на 1 поверх]]></data>
+  <data name="uk_spotpoint278_tooltip"><![CDATA[коридор]]></data>
+  <data name="uk_spotpoint684_tooltip"><![CDATA[213 кабінет]]></data>
+
+
+  <data name="uk_pano249_title"><![CDATA[IMG_7659]]></data>
+  <data name="uk_spotpoint252_tooltip"><![CDATA[коридор]]></data>
+
+
+  <data name="uk_pano253_title"><![CDATA[IMG_7662]]></data>
+  <data name="uk_spotpoint256_tooltip"><![CDATA[коридор]]></data>
+
+
+  <data name="uk_pano259_title"><![CDATA[IMG_7666]]></data>
+  <data name="uk_spotpoint262_tooltip"><![CDATA[коридор]]></data>
+
+
+  <data name="uk_pano263_title"><![CDATA[IMG_7664]]></data>
+  <data name="uk_spotpoint265_tooltip"><![CDATA[коридор]]></data>
+
+
+  <data name="uk_pano267_title"><![CDATA[IMG_7667]]></data>
+  <data name="uk_spotpoint269_tooltip"><![CDATA[коридор]]></data>
+
+
+  <data name="uk_pano271_title"><![CDATA[IMG_7670]]></data>
+  <data name="uk_spotpoint273_tooltip"><![CDATA[коридор]]></data>
+
+
+  <data name="uk_pano274_title"><![CDATA[IMG_7231]]></data>
+  <data name="uk_spotpoint276_tooltip"><![CDATA[214 кабінет]]></data>
+  <data name="uk_spotpoint277_tooltip"><![CDATA[коридор]]></data>
+
+
+  <data name="uk_pano279_title"><![CDATA[IMG_7673]]></data>
+  <data name="uk_spotpoint639_tooltip"><![CDATA[коридор]]></data>
+
+
+  <data name="uk_pano641_title"><![CDATA[IMG_7675]]></data>
+  <data name="uk_spotpoint646_tooltip"><![CDATA[коридор]]></data>
+
+
+  <data name="uk_pano648_title"><![CDATA[IMG_7678]]></data>
+  <data name="uk_spotpoint656_tooltip"><![CDATA[коридор]]></data>
+
+
+  <data name="uk_pano652_title"><![CDATA[IMG_7682]]></data>
+  <data name="uk_spotpoint654_tooltip"><![CDATA[сходи на 1 поверх]]></data>
+  <data name="uk_spotpoint655_tooltip"><![CDATA[216 кабінет]]></data>
+  <data name="uk_spotpoint664_tooltip"><![CDATA[217 кабінет]]></data>
+
+
+  <data name="uk_pano657_title"><![CDATA[IMG_7679]]></data>
+  <data name="uk_spotpoint663_tooltip"><![CDATA[коридор]]></data>
+
+
+  <data name="uk_pano665_title"><![CDATA[IMG_7683]]></data>
+  <data name="uk_spotpoint667_tooltip"><![CDATA[коридор]]></data>
+
+
+  <data name="uk_pano669_title"><![CDATA[IMG_7684]]></data>
+  <data name="uk_spotpoint671_tooltip"><![CDATA[коридор]]></data>
+
+
+  <data name="uk_pano673_title"><![CDATA[IMG_7686]]></data>
+  <data name="uk_spotpoint675_tooltip"><![CDATA[коридор]]></data>
+
+
+  <data name="uk_pano677_title"><![CDATA[IMG_7687]]></data>
+  <data name="uk_spotpoint681_tooltip"><![CDATA[коридор]]></data>
+
+
+  <data name="uk_pano685_title"><![CDATA[IMG_7679]]></data>
+  <data name="uk_spotpoint691_tooltip"><![CDATA[коридор]]></data>
+
+
+
+
+
+
+  <data name="uk_floorPlanmenu_label"><![CDATA[Select a floor plan]]></data>
+
+
+  <data name="uk_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="uk_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="uk_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="uk_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="uk_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="uk_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="uk_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="uk_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="uk_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="uk_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="uk_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="uk_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="uk_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="uk_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="uk_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="uk_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="uk_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="uk_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="uk_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="uk_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="uk_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="uk_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="uk_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="uk_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="uk_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="uk_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="uk_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="uk_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="uk_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="uk_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
